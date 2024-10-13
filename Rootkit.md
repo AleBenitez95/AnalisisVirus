@@ -16,6 +16,8 @@ Comprobación
 sudo rkhunter --check
 ````
 
+![Warning](img/img2.png)
+
 Toda la información se quedará guardada en /var/log/rkhunter.log
 
 Para verlo solo tenemos que escribir:
