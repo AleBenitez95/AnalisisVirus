@@ -1,8 +1,11 @@
-## Instalación
+## Clamav
+
+### Instalación
 
 ````
 sudo apt-get install clamav
 ````
+### Comprobación
 
 Abrimos la aplicación *ClamTk* desde la interfaz gráfica:
 
@@ -12,4 +15,4 @@ Abrimos la aplicación *ClamTk* desde la interfaz gráfica:
 
 
 
-Seleccionamos el directorio o el archivo que queremos analizar
+Seleccionamos el directorio o el archivo que queremos analizar.
