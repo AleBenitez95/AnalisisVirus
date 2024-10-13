@@ -1,4 +1,4 @@
-## Instalacion
+## Instalación
 
 ````
 sudo apt-get install clamav
