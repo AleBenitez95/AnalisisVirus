@@ -6,6 +6,7 @@ sudo apt-get install clamav
 
 Abrimos la aplicación *ClamTk* desde la interfaz gráfica:
 
+![ClamTk](img/img1.png)
 
 
 
