@@ -3,7 +3,7 @@
 ## Linux
 
   1. [Clamav](Clamav.md)
-  2. Rootkit Hunter
+  2. [Rootkit Hunter](Rootkit.md)
   3. Yara
   4. Maltrail
   5. ClamTK
