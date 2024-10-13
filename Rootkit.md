@@ -1,8 +1,11 @@
-# Instalación
+# RootkitHunter
+
+### Instalación
 
 ````
 sudo apt-get install rkhunter
 ````
+### Actualización
 
 Actualización de base de datos de rkhunter
 
@@ -10,7 +13,7 @@ Actualización de base de datos de rkhunter
 sudo rkhunter --update
 ````
 
-Comprobación
+### Comprobación
 
 ````
 sudo rkhunter --check
