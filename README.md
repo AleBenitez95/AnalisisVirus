@@ -4,17 +4,15 @@
 
   1. [Clamav](Clamav.md)
   2. [Rootkit Hunter](Rootkit.md)
-  3. Yara
-  4. [Maltrail](Maltrail.md)
-  5. ClamTK
-  6. LMD
-  7. Raspirus
-  8. FastFinder
-  9. Uhide
-  10. phpMussel
-  11. libredefender
-  12. Hostsblock
-  13. chkrootkit
+  3. [Maltrail](Maltrail.md)
+  4. LMD
+  5. Raspirus
+  6. FastFinder
+  7. Uhide
+  8. phpMussel
+  9. libredefender
+  10. Hostsblock
+  11. chkrootkit
 
 ## Páginas Web
 
