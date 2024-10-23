@@ -34,7 +34,8 @@ Checking 'rarp'...                Not infected
 Checking 'rlogin'...              Not infected
 Checking 'syslogd'...             Not infected
 ```
-*INFECTED:* Indica que se ha encontrado un posible rootkit.
-*Not infected:* Indica que no se ha encontrado nada sospechoso.
+**INFECTED:** Indica que se ha encontrado un posible rootkit.
+
+**Not infected:** Indica que no se ha encontrado nada sospechoso.
 
 
