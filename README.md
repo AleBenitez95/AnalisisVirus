@@ -8,7 +8,7 @@
   4. [LMD](LMD.md)
   5. [Raspirus](Raspirus.md)
   6. [phpMussel](phpMussel.md)
-  8. libredefender
+  8. [libredefender](libredefender.md)
   9. Hostsblock
   10. chkrootkit
 
