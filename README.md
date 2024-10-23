@@ -15,3 +15,9 @@
 ## Páginas Web
 
   1. [VirusTotal](https://www.virustotal.com/gui/home/upload)
+
+
+
+## Licencia
+
+Análisis de malwareestá bajo licencia CC BY 4.0© 2 por AleBenitez95 
