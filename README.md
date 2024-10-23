@@ -7,8 +7,7 @@
   3. [Maltrail](Maltrail.md)
   4. [LMD](LMD.md)
   5. [Raspirus](Raspirus.md)
-  6. Uhide
-  7. phpMussel
+  6. [phpMussel](phpMussel.md)
   8. libredefender
   9. Hostsblock
   10. chkrootkit
